@@ -12,6 +12,7 @@ public static void main(String[] args) {
 }
 }
 class School{
+    System.out.println("Hello");
        String name;
     void setname(){
         System.out.println(this.name);
